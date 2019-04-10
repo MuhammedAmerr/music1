@@ -1,0 +1,6 @@
+owner=561643377154719776
+prefix=1
+game=1play by tripleX
+stayinchannel=true
+songinstatus=true
+token=NTY1MzA2MzI4NDM2ODM0MzE0.XK0g4Q.0RXwryNEz8hunrQEC9obSvo-Qm0
